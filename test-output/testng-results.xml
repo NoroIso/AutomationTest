@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73906" started-at="2022-01-19T17:25:04 AMT" finished-at="2022-01-19T17:26:18 AMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73906" started-at="2022-01-19T17:25:04 AMT" finished-at="2022-01-19T17:26:18 AMT">
+      <class name="com.demoblaze.tests.DemoblazeClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="2937" started-at="2022-01-19T17:25:04 AMT" finished-at="2022-01-19T17:25:07 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openPage()[pri:1, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="openPage" duration-ms="2968" started-at="2022-01-19T17:25:07 AMT" finished-at="2022-01-19T17:25:10 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="731" started-at="2022-01-19T17:25:10 AMT" finished-at="2022-01-19T17:25:10 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1667" started-at="2022-01-19T17:25:10 AMT" finished-at="2022-01-19T17:25:12 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sign_up()[pri:2, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="sign_up" duration-ms="7046" started-at="2022-01-19T17:25:12 AMT" finished-at="2022-01-19T17:25:19 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_up -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="1212" started-at="2022-01-19T17:25:19 AMT" finished-at="2022-01-19T17:25:20 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1535" started-at="2022-01-19T17:25:20 AMT" finished-at="2022-01-19T17:25:22 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="log_in()[pri:3, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="log_in" duration-ms="4538" started-at="2022-01-19T17:25:22 AMT" finished-at="2022-01-19T17:25:26 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_in -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="709" started-at="2022-01-19T17:25:27 AMT" finished-at="2022-01-19T17:25:27 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1733" started-at="2022-01-19T17:25:27 AMT" finished-at="2022-01-19T17:25:29 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enter_homepage()[pri:4, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="enter_homepage" duration-ms="3504" started-at="2022-01-19T17:25:29 AMT" finished-at="2022-01-19T17:25:32 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_homepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="710" started-at="2022-01-19T17:25:32 AMT" finished-at="2022-01-19T17:25:33 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1529" started-at="2022-01-19T17:25:33 AMT" finished-at="2022-01-19T17:25:35 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="send_contacts()[pri:5, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="send_contacts" duration-ms="5820" started-at="2022-01-19T17:25:35 AMT" finished-at="2022-01-19T17:25:41 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_contacts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="867" started-at="2022-01-19T17:25:41 AMT" finished-at="2022-01-19T17:25:41 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1420" started-at="2022-01-19T17:25:41 AMT" finished-at="2022-01-19T17:25:43 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="using_About_us()[pri:6, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="using_About_us" duration-ms="3682" started-at="2022-01-19T17:25:43 AMT" finished-at="2022-01-19T17:25:46 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- using_About_us -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="730" started-at="2022-01-19T17:25:46 AMT" finished-at="2022-01-19T17:25:47 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1656" started-at="2022-01-19T17:25:47 AMT" finished-at="2022-01-19T17:25:49 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enter_Cart()[pri:7, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="enter_Cart" duration-ms="4033" started-at="2022-01-19T17:25:49 AMT" finished-at="2022-01-19T17:25:53 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_Cart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="697" started-at="2022-01-19T17:25:53 AMT" finished-at="2022-01-19T17:25:54 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1536" started-at="2022-01-19T17:25:54 AMT" finished-at="2022-01-19T17:25:55 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="add_item_to_Cart()[pri:8, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="add_item_to_Cart" duration-ms="6553" started-at="2022-01-19T17:25:55 AMT" finished-at="2022-01-19T17:26:02 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_item_to_Cart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="790" started-at="2022-01-19T17:26:02 AMT" finished-at="2022-01-19T17:26:02 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1632" started-at="2022-01-19T17:26:02 AMT" finished-at="2022-01-19T17:26:04 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="delete_item_from_Cart()[pri:9, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="delete_item_from_Cart" duration-ms="6027" started-at="2022-01-19T17:26:04 AMT" finished-at="2022-01-19T17:26:10 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_item_from_Cart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="755" started-at="2022-01-19T17:26:10 AMT" finished-at="2022-01-19T17:26:11 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="setup" is-config="true" duration-ms="1431" started-at="2022-01-19T17:26:11 AMT" finished-at="2022-01-19T17:26:12 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="order_item()[pri:10, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="order_item" duration-ms="4642" started-at="2022-01-19T17:26:12 AMT" finished-at="2022-01-19T17:26:17 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_item -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoblaze.tests.DemoblazeClass@6950e31]" name="tearDown" is-config="true" duration-ms="740" started-at="2022-01-19T17:26:17 AMT" finished-at="2022-01-19T17:26:18 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.tests.DemoblazeClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
