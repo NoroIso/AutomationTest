@@ -66,7 +66,7 @@ public class DemoblazeClass {
 		demoblaze.manage().deleteAllCookies();
 		demoblaze.get("https://www.demoblaze.com/");
 		demoblaze.findElement(By.xpath("//a[text()='Log in']")).click();
-		demoblaze.findElement(By.xpath("//input[@id='loginusername']")).sendKeys("Armen Amiryan");
+		demoblaze.findElement(By.xpath("//input[@id='loginusername']")).sendKeys("Arsen Amiryan");
 		demoblaze.findElement(By.xpath("//input[@id='loginpassword']")).sendKeys("123456");
 		demoblaze.findElement(By.xpath("//button[text()='Log in']")).click();
 		//Thread.sleep(3000);
