@@ -96,8 +96,8 @@ public class DemoblazeClass {
 		demoblaze.manage().deleteAllCookies();
 		demoblaze.get("https://www.demoblaze.com/");
 		demoblaze.findElement(By.xpath("//a[text()='Contact']")).click();
-		demoblaze.findElement(By.xpath("//input[@id='recipient-email']")).sendKeys("arm@mail.ru");
-		demoblaze.findElement(By.xpath("//input[@id='recipient-name']")).sendKeys("Artur Amiryan");
+		demoblaze.findElement(By.xpath("//input[@id='recipient-email']")).sendKeys("ars@mail.ru");
+		demoblaze.findElement(By.xpath("//input[@id='recipient-name']")).sendKeys("Arsen Amiryan");
 		demoblaze.findElement(By.xpath("//textarea[@id='message-text']")).sendKeys(
 				"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
 				+ "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
@@ -173,7 +173,7 @@ public class DemoblazeClass {
 		demoblaze.get("https://www.demoblaze.com/");
 		demoblaze.findElement(By.xpath("//a[text()='Cart']")).click();
 		demoblaze.findElement(By.xpath("//button[text()='Place Order']")).click();
-		demoblaze.findElement(By.xpath("//input[@id='name']")).sendKeys("Armen Amiryan");
+		demoblaze.findElement(By.xpath("//input[@id='name']")).sendKeys("Arsen Amiryan");
 		demoblaze.findElement(By.xpath("//input[@id='country']")).sendKeys("Armenia");
 		demoblaze.findElement(By.xpath("//input[@id='city']")).sendKeys("Yerevan");
 		demoblaze.findElement(By.xpath("//input[@id='card']")).sendKeys("123456");
